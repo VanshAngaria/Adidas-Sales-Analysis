@@ -4,6 +4,9 @@
 
 This repository contains an analysis of Adidas's sales performance, focusing on the strategies and factors that contributed to its revenue surge. The analysis includes key insights, a conclusive dashboard, and recommendations for Adidas to sustain its growth and market dominance.
 
+![Tableau dashboard](Dashboard%201%20(1).png)
+
+
 ## Key Insights
 
 - **Revenue Surge:** Despite market challenges, Adidas experienced an 80% boost in revenue compared to the previous fiscal year, reaching an impressive $717,821,450. This growth is attributed to successful product launches, strong brand resonance, and innovative marketing strategies.
@@ -29,14 +32,4 @@ The analysis underscores Adidas's strong market position and outlines strategies
 - 🎯 Fine-tuning marketing strategies
 - 🛍️ Strengthening omnichannel presence
 - 🌱 Championing sustainability efforts
-
-By prioritizing these areas and maintaining a customer-centric approach, Adidas can continue to offer unparalleled products and experiences to its diverse clientele.
-
-## License
-
-This analysis is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-This analysis was conducted by [Your Name] and [Your Team], with contributions from [Contributor Names]. For inquiries, please contact [Your Email Address].
 
