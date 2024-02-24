@@ -1,7 +1,8 @@
 # 🌟 Decoding Nike's Sales Triumph: Unveiling the Strategies Behind Nike's Revenue Surge 📊
 
 ## Snippet: Conclusive Dashboard (3)
-<iframe src="https://public.tableau.com/app/profile/vansh.angaria/viz/AdidasSalesAnalysis2/Dashboard1" width="800" height="600"></iframe>
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/vansh.angaria/viz/AdidasSalesAnalysis2/Dashboard1)
+
 
 
 ### 📌 KEY INSIGHTS:
