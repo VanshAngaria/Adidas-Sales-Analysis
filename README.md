@@ -28,4 +28,3 @@ Armed with these discernments and a steadfast commitment to customer-centricity,
 
 ---
 
-*(Replace this with any necessary installation instructions, usage examples, or acknowledgments.)*
